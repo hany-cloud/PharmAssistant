@@ -27,6 +27,8 @@
 *.gitattributes linguist-language=gitattributes
 
 
+*.rb linguist-language=C#
+
 ###############################################################################
 # Set the language of a repository on GitHub.
 ###############################################################################
