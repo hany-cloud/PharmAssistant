@@ -47,6 +47,10 @@
 ###############################################################################
 *.cs     diff=csharp
 
+*.cs linguist-language=C#
+
 Content/* linguist-vendored
-#Scripts/* linguist-vendored
+Content/* linguist-language=C#
+Scripts/* linguist-vendored
+Scripts/* linguist-language=C#
 
