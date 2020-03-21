@@ -1,6 +1,6 @@
-Content/* linguist-vendored
+#Content/* linguist-vendored
 
-Scripts/* linguist-vendored
+#Scripts/* linguist-vendored
 
 *.html linguist-detectable=false
 
