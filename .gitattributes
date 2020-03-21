@@ -1,6 +1,3 @@
-Content/* linguist-vendored
-Scripts/* linguist-vendored
-
 ###############################################################################
 # Set the language of a repository on GitHub.
 ###############################################################################
@@ -8,3 +5,8 @@ Scripts/* linguist-vendored
 *.js linguist-detectable=false
 *.html linguist-detectable=false
 *.xml linguist-detectable=false
+
+
+Content/* linguist-vendored
+Scripts/* linguist-vendored
+
