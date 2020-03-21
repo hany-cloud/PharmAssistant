@@ -1,3 +1,6 @@
+Content/* linguist-vendored
+Scripts/* linguist-vendored
+
 ###############################################################################
 # Set the language of a repository on GitHub.
 ###############################################################################
