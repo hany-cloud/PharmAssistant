@@ -49,7 +49,7 @@
 # Note: This is only used by command line
 ###############################################################################
 *.cs     diff=csharp
-
+ 
 
 Content/* linguist-vendored
 Scripts/* linguist-vendored
