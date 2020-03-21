@@ -1,6 +1,0 @@
-*.js linguist-language=C#
-
-*.js linguist-vendored=false
-*.html linguist-vendored=false
-
-
