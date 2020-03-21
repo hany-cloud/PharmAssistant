@@ -31,6 +31,10 @@
 *.css linguist-language=C#
 *.html linguist-language=C#
 
+* linguist-vendored
+*.html linguist-vendored=false
+*.js linguist-vendored=false
+
 
 ###############################################################################
 # Set the language of a repository on GitHub.
