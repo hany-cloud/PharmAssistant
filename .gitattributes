@@ -1,6 +1,9 @@
 Content/* linguist-vendored
+
 Scripts/* linguist-vendored
+
+*.html linguist-detectable=false
 
 
 *.js linguist-detectable=false
-*.html linguist-detectable=false
+
