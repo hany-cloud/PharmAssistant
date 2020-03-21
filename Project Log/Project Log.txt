@@ -1,0 +1,53 @@
+Lessons learned 
+	don't rename any folder with special char such as C#
+---------------------------------------------------------------------------------------------------------------------
+
+Login for the first time with built in Admin user
+
+const string name = "admin@example.com";
+const string password = "Admin@123";
+const string roleName = "Admin";
+font
+
+ 
+Useful links
+https://bootsnipp.com/snippets/eNe4v
+https://fontawesome.com/v4.7.0/icons/
+
+https://forums.asp.net/t/1882353.aspx?How+to+display+Current+user+or+login+name+
+https://stackoverflow.com/questions/40931776/how-can-i-hide-show-menu-item-based-on-logged-users-asp-net-mvc
+https://stackoverflow.com/questions/11668261/asp-net-mvc-how-to-hide-or-show-a-link-button-based-on-logged-in-users-role-p
+
+https://www.c-sharpcorner.com/UploadFile/618722/custom-error-page-in-Asp-Net-mvc/
+
+https://stackoverflow.com/questions/19197481/cannot-convert-lambda-expression-to-type-string-because-it-is-not-a-delegate-t
+
+https://docs.microsoft.com/en-us/ef/core/saving/cascade-delete
+
+https://github.com/github/VisualStudio/blob/master/docs/using/publishing-an-existing-project-to-github.md
+https://dev.to/yysun/commit-to-git-in-visual-studio-2019-1lcj
+https://desktop.github.com/
+
+https://stackoverflow.com/questions/4209999/an-asp-net-setting-has-been-detected-that-does-not-apply-in-integrated-managed-p
+https://stackoverflow.com/questions/19280527/mvc-5-seed-users-and-roles
+---------------------------------------------------------------------------------------------------------------------
+
+Extras
+
+Data Source=C:\Users\Jessica\source\repos\MvcMusicStore\App_Data\MvcMusicStore.sdf
+
+Enable-Migrations -EnableAutomaticMigrations
+
+
+<add name="MusicStoreEntities" connectionString="Data Source=.\MSSQLSERVER2017; AttachDbFilename=|DataDirectory|MusicStoreDB.mdf; Database=MusicStoreDB; Integrated Security=True; Uid=sa; Password=sasa;" providerName="System.Data.SqlClient"/>
+
+<add name="ASPNETServices" connectionString="Data Source=DESKTOP-6LV3GBQ\MSSQLSERVER2017; Database=MusicStoreDB; User Id=sa; Password=sasa" providerName="System.Data.SqlClient"/>    
+
+<a href="@Url.Action("Details", new { id = album.AlbumId })"> 
+	<img alt="@album.Title" src="@album.AlbumArtUrl" /> <span>@album.Title</span> 
+</a>
+
+
+C:\Windows\SysWOW64\SQLServerManager14.msc => MSSQL2017  configuration manager tool path
+
+---------------------------------------------------------------------------------------------------------------------
