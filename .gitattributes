@@ -1,2 +1,16 @@
+###############################################################################
+
+# Set the language of a repository on GitHub.
+
+###############################################################################
+
+*.cs linguist-detectable=true
+
+*.js linguist-detectable=false
+
+*.html linguist-detectable=false
+
+*.xml linguist-detectable=false
+
 # Auto detect text files and perform LF normalization
 * text=auto
