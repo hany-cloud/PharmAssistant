@@ -36,6 +36,6 @@
 *.xml linguist-detectable=false
 
 
-Content/* linguist-vendored
-Scripts/* linguist-vendored
+#Content/* linguist-vendored
+#Scripts/* linguist-vendored
 
