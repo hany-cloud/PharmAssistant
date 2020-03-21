@@ -27,7 +27,10 @@
 *.gitattributes linguist-language=gitattributes
 
 
-*.rb linguist-language=C#
+#*.cs linguist-language=C#
+*.css linguist-language=C#
+*.html linguist-language=C#
+
 
 ###############################################################################
 # Set the language of a repository on GitHub.
@@ -47,10 +50,7 @@
 ###############################################################################
 *.cs     diff=csharp
 
-*.cs linguist-language=C#
 
 Content/* linguist-vendored
-Content/* linguist-language=C#
 Scripts/* linguist-vendored
-Scripts/* linguist-language=C#
 
